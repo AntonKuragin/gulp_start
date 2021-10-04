@@ -1,0 +1,11 @@
+{
+  "name": "gulp_start",
+  "version": "1.0.0",
+  "description": "gulp start",
+  "scripts": {
+
+  },
+  "keywords": ["gulp", "js", "sass", "pug", "linters"],
+  "author": "https://antonkuragin.github.io/my-resume/index.html",
+  "license": "WTFPL"
+}
